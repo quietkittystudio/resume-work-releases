@@ -1,17 +1,17 @@
-version: 26.10.41606-rc3
+version: 26.10.41643-rc4
 files:
-  - url: https://github.com/quietkittystudio/resume-work-releases/releases/download/v26.10.0-rc3/Resume-Work-26.10.41606-rc3-mac.zip
-    sha512: /W8VFoYn4brzfp0uY0K3rRjo4oWLn2zvE+UMX0HEQdtChfpv8DNQIBF+mH24+Gcyd5XyhvIryPt8qe+cFL8aow==
-    size: 216608299
-  - url: https://github.com/quietkittystudio/resume-work-releases/releases/download/v26.10.0-rc3/Resume-Work-26.10.41606-rc3.dmg
-    sha512: msTC8/ZHFhj74BSUk+2njfbW7xMXCTwCJaHr3KiJYiHo8FU/wP21DnJb2p8ws/uldkCxkJxAenR8/WUWImSIkg==
-    size: 225443635
-  - url: https://github.com/quietkittystudio/resume-work-releases/releases/download/v26.10.0-rc3/Resume-Work-26.10.41606-rc3-arm64-mac.zip
-    sha512: 3cXbGgY7CErXtFqIKGHwS/xOlabJlN1d9igEgTXYSEsFRMVJE9K7Wn8SwUezI2y5kho0qYaPn5rmrVnjzp8UBg==
-    size: 211516024
-  - url: https://github.com/quietkittystudio/resume-work-releases/releases/download/v26.10.0-rc3/Resume-Work-26.10.41606-rc3-arm64.dmg
-    sha512: Mz/VuQy/uhgdih9Lph9Q2P4vsFfhWuaDbEp8gg3r1WRhxTQbf9WGgHH9vRGLB3Ti7tHOXlXCSL1PWtrCHhPyiQ==
-    size: 220400182
-path: https://github.com/quietkittystudio/resume-work-releases/releases/download/v26.10.0-rc3/Resume-Work-26.10.41606-rc3-mac.zip
-sha512: /W8VFoYn4brzfp0uY0K3rRjo4oWLn2zvE+UMX0HEQdtChfpv8DNQIBF+mH24+Gcyd5XyhvIryPt8qe+cFL8aow==
-releaseDate: "2026-10-29T21:31:49.244Z"
+  - url: https://github.com/quietkittystudio/resume-work-releases/releases/download/v26.10.0-rc4/Resume-Work-26.10.41643-rc4-mac.zip
+    sha512: IXGLSjUQnRiY68fS9KkjyIo304+T0eFFqUJgBp1+58Thg5nK7M525JlJale9axKVsw+/7deWj/FHaWbU7OS2eQ==
+    size: 216607245
+  - url: https://github.com/quietkittystudio/resume-work-releases/releases/download/v26.10.0-rc4/Resume-Work-26.10.41643-rc4.dmg
+    sha512: FmulvzU2wJXuqBILWWv0XDUasuzXIHlyqYEIFCZmHZKT/EY8Rup8q6K6JrbLTNcLfHBnZdgEGPyYlTLlmyW8TQ==
+    size: 225439698
+  - url: https://github.com/quietkittystudio/resume-work-releases/releases/download/v26.10.0-rc4/Resume-Work-26.10.41643-rc4-arm64-mac.zip
+    sha512: hxkyFIBjRT+NUe+5MfGELE4ni7KUEVbiVkkkNBcBvZrsZ2H+vxA5eW5s7NHFSYjgvhvgK690DlpLwTrcF3Ohfg==
+    size: 211514981
+  - url: https://github.com/quietkittystudio/resume-work-releases/releases/download/v26.10.0-rc4/Resume-Work-26.10.41643-rc4-arm64.dmg
+    sha512: mzqobNhmvYJCaXWAmUsO/qUQfOLsPooY2PhqK7D7HP31OyZDpsRosAMdMX2sDSD3TxJsQvr3+/Sk3PhAJfBrxA==
+    size: 220395281
+path: https://github.com/quietkittystudio/resume-work-releases/releases/download/v26.10.0-rc4/Resume-Work-26.10.41643-rc4-mac.zip
+sha512: IXGLSjUQnRiY68fS9KkjyIo304+T0eFFqUJgBp1+58Thg5nK7M525JlJale9axKVsw+/7deWj/FHaWbU7OS2eQ==
+releaseDate: "2026-10-29T22:08:48.358Z"
