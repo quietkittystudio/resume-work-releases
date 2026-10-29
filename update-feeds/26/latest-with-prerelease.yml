@@ -1,0 +1,8 @@
+version: 26.10.41606-rc3
+files:
+  - url: https://github.com/quietkittystudio/resume-work-releases/releases/download/v26.10.0-rc3/Resume-Work-Setup-26.10.41606-rc3.exe
+    sha512: Z38rmCyiOSm1z3CdhwmeRvvno72MPohX0SAu4gIp5cxNzYfbknXKxjacJbjNA8bTuLSR0ht+lx/cJGiUKwRBCg==
+    size: 166985208
+path: https://github.com/quietkittystudio/resume-work-releases/releases/download/v26.10.0-rc3/Resume-Work-Setup-26.10.41606-rc3.exe
+sha512: Z38rmCyiOSm1z3CdhwmeRvvno72MPohX0SAu4gIp5cxNzYfbknXKxjacJbjNA8bTuLSR0ht+lx/cJGiUKwRBCg==
+releaseDate: "2026-10-29T21:30:52.287Z"

@@ -1,0 +1,8 @@
+version: 26.10.41606-rc3
+files:
+  - url: https://github.com/quietkittystudio/resume-work-releases/releases/download/v26.10.0-rc3/resume-work_26.10.41606-rc3_amd64.deb
+    sha512: lLZKC5WojxS2ulaKzd3n5bk4lVPvv+z/OI8lt/LhB4DlyBJuou/QU124KeBQ6xOXxwLsXSGXCkqI63sCME/ixg==
+    size: 151504124
+path: https://github.com/quietkittystudio/resume-work-releases/releases/download/v26.10.0-rc3/resume-work_26.10.41606-rc3_amd64.deb
+sha512: lLZKC5WojxS2ulaKzd3n5bk4lVPvv+z/OI8lt/LhB4DlyBJuou/QU124KeBQ6xOXxwLsXSGXCkqI63sCME/ixg==
+releaseDate: "2026-10-29T21:28:51.641Z"
