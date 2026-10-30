@@ -1,8 +1,8 @@
-version: 26.10.41643-rc4
+version: 26.10.42952
 files:
-  - url: https://github.com/quietkittystudio/resume-work-releases/releases/download/v26.10.0-rc4/resume-work_26.10.41643-rc4_amd64.deb
-    sha512: qh1Mj+LFnr5p88L2y8Se65p7ogO/EWFAKuKKDFpqY5m2a+n6QJC6nvJ7zSnLj+YETk1DJI1jWuPQjnXGeBdDcQ==
-    size: 151505032
-path: https://github.com/quietkittystudio/resume-work-releases/releases/download/v26.10.0-rc4/resume-work_26.10.41643-rc4_amd64.deb
-sha512: qh1Mj+LFnr5p88L2y8Se65p7ogO/EWFAKuKKDFpqY5m2a+n6QJC6nvJ7zSnLj+YETk1DJI1jWuPQjnXGeBdDcQ==
-releaseDate: "2026-10-29T22:05:40.789Z"
+  - url: https://github.com/quietkittystudio/resume-work-releases/releases/download/v26.10.0/resume-work_26.10.42952_amd64.deb
+    sha512: WZnSs/eBSXTfqba6+WE4PGfDJOPSP4aMb/BD3mS8uU12jL4bjnNueqPmS/q/Ee+Lhd5P12BNpDkwM03SZxwEzg==
+    size: 151507060
+path: https://github.com/quietkittystudio/resume-work-releases/releases/download/v26.10.0/resume-work_26.10.42952_amd64.deb
+sha512: WZnSs/eBSXTfqba6+WE4PGfDJOPSP4aMb/BD3mS8uU12jL4bjnNueqPmS/q/Ee+Lhd5P12BNpDkwM03SZxwEzg==
+releaseDate: "2026-10-30T19:55:47.704Z"

@@ -1,0 +1,17 @@
+version: 26.10.42952
+files:
+  - url: https://github.com/quietkittystudio/resume-work-releases/releases/download/v26.10.0/resume-work_26.10.42952_x64.zip
+    sha512: 2Dh9shodc7hOk42ilarXOD1C7UkchJULBbvYY7UvqM9+sJbFoN/bZf1FeryqZ8pc9gnZjDB06Ytr5+IOCJ6LNQ==
+    size: 216607369
+  - url: https://github.com/quietkittystudio/resume-work-releases/releases/download/v26.10.0/resume-work_26.10.42952_x64.dmg
+    sha512: GaO0HmQlMiDjMA4AmFlNDd94INnAwrxBWPy8sMzIZPQMQM8YPeha4MkFEWo6f9c3Fy06cDNXremavm0uflFH+A==
+    size: 225437972
+  - url: https://github.com/quietkittystudio/resume-work-releases/releases/download/v26.10.0/resume-work_26.10.42952_arm64.zip
+    sha512: KEozt2qear5PVUYO1KQUStL1Hb5ByMab6ZP6+Ni3N+wKbe7rIDCw2n9QvHqxaYRAxW4hhM7nrA5llTvtI5wLiw==
+    size: 211515096
+  - url: https://github.com/quietkittystudio/resume-work-releases/releases/download/v26.10.0/resume-work_26.10.42952_arm64.dmg
+    sha512: mnq3uUXFrgKEosKKZfq9wOodfmSTDmMB4/EuzVCpnQHeNHxESqeIAIeXuElsIux6SrKnStkbdIuymEWztAKJEQ==
+    size: 220399651
+path: https://github.com/quietkittystudio/resume-work-releases/releases/download/v26.10.0/resume-work_26.10.42952_x64.zip
+sha512: 2Dh9shodc7hOk42ilarXOD1C7UkchJULBbvYY7UvqM9+sJbFoN/bZf1FeryqZ8pc9gnZjDB06Ytr5+IOCJ6LNQ==
+releaseDate: "2026-10-30T19:58:24.173Z"
